@@ -1,0 +1,20 @@
+[
+    {
+        "product_name": "Modern Wooden Chair",
+        "price": 5200,
+        "user_name": "Asim",
+        "user_address": "Future colony",
+        "user_contact": "034444498",
+        "seller_name": "Haroon Rasheed",
+        "seller_contact": "03412231142"
+    },
+    {
+        "product_name": "Cozy Armchair",
+        "price": 7400,
+        "user_name": "haroon",
+        "user_address": "hhhhhhh",
+        "user_contact": "300000000",
+        "seller_name": "Haroon Rasheed",
+        "seller_contact": "03412231142"
+    }
+]

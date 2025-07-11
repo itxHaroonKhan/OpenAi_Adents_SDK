@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": "Boots",
+      "description": "A premium chair with plush cushioning for ultimate comfort.",
+      "image_url": "https://i.pinimg.com/1200x/5b/5b/a7/5b5ba73ed553f40add999a437e199e67.jpg",
+      "price": 9500,
+      "purchased": false
+    },
+    {
+      "name": "Boots",
+      "description": "Contemporary chair perfect for reading corners or bedrooms.",
+      "image_url": "https://i.pinimg.com/736x/04/e9/1b/04e91b7376071d5912da7f6087f9ef08.jpg",
+      "price": 6800,
+      "purchased": false
+    },
+    {
+      "name": "Boots",
+      "description": "Wooden-framed chair with a rustic charm and wide armrests.",
+      "image_url": "https://i.pinimg.com/1200x/7d/16/99/7d1699cd5c4e1708cd9298f41c0feee1.jpg",
+      "price": 7400,
+      "purchased": false
+    },
+    {
+      "name": "Cardigan for Men Casual",
+      "description": "Inspired by mid-century design, adds vintage elegance to any room.",
+      "image_url": "https://i.pinimg.com/736x/af/18/4b/af184bdb3afc4a72d1b4f04110c5ceb2.jpg",
+      "price": 8800,
+      "purchased": false
+    },
+    {
+      "name": "Cardigan for Men Casual",
+      "description": "Simple and sleek, ideal for modern interiors.",
+      "image_url": "https://i.pinimg.com/1200x/04/8c/96/048c96af325c45ff8db4e67673181fa2.jpg",
+      "price": 5400,
+      "purchased": false
+    },
+    {
+      "name": "Cardigan for Men Casual",
+      "description": "Professional, ergonomic chair with wooden touch for office use.",
+      "image_url": "https://i.pinimg.com/1200x/aa/89/31/aa893109ad3a8c1309fc0f2ef6b6f9a8.jpg",
+      "price": 11900,
+      "purchased": false
+    },
+    {
+      "name": "Cardigan for Men Casual",
+      "description": "Retro-inspired design, perfect for studios or creative spaces.",
+      "image_url": "https://i.pinimg.com/736x/fe/71/c2/fe71c263e734dbaf8565e32b435d7bcb.jpg",
+      "price": 4600,
+      "purchased": false
+    },
+    {
+      "name": "The North Face Jester Backpack",
+      "description": "Curved ergonomic backrest for long seating sessions.",
+      "image_url": "https://i.pinimg.com/736x/0d/c0/da/0dc0da667f1a985b50ab09d18324493c.jpg",
+      "price": 7900,
+      "purchased": false
+    },
+    {
+      "name": "The North Face Jester Backpack",
+      "description": "Heavy-duty wooden frame with wide padded seat.",
+      "image_url": "https://i.pinimg.com/1200x/19/47/36/1947366ba2487e79994952e0a1c0e51a.jpg",
+      "price": 10200,
+      "purchased": false
+    },
+    {
+      "name": "The North Face Jester Backpack",
+      "description": "Casual and comfy armchair great for dining setups.",
+      "image_url": "https://i.pinimg.com/736x/77/3a/82/773a820f1ffa161adfda695721ce5892.jpg",
+      "price": 4200,
+      "purchased": false
+    },
+    {
+      "name": "The North Face Jester Backpack",
+      "description": "Spacious and soft, perfect for evening relaxation.",
+      "image_url": "https://i.pinimg.com/1200x/00/82/59/008259feca88885356eba27b0484cc11.jpg",
+      "price": 6700,
+      "purchased": false
+    },
+    {
+      "name": "The North Face Jester Backpack",
+      "description": "Premium chair with smooth finish, ideal for formal lounges.",
+      "image_url": "https://i.pinimg.com/1200x/8f/eb/f2/8febf2ec1b40a50eb3850631a6e330ab.jpg",
+      "price": 9700,
+      "purchased": false
+    }
+  ]
+}
