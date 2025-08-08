@@ -15,6 +15,6 @@ The **OpenAI Agents SDK** provides a simple interface to build AI Assistants pow
 ---
 
 ## 📦 Installation
-
+https://console.groq.com/docs/openai
 ```bash
 pip install openai
